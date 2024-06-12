@@ -19,6 +19,6 @@ Welcome to the GitHub repository for our fully responsive BMW showcase website, 
 
 # Preview :
 
-![bmwCars](bmw_cars_sass/images/BMW-Cars.gif)
+![bmwCars](images/BMW-Cars.gif)
 # BMW-Cars
-# BMW-Cars
+
